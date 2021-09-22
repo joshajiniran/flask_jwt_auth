@@ -19,4 +19,4 @@ six==1.16.0
 SQLAlchemy==1.4.23
 Werkzeug==2.0.1
 psycopg2==2.8.6
-PyJWT==2.0.0
+PyJWT==1.7.1
